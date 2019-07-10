@@ -1,4 +1,4 @@
-#nattakit 
-#warayut 
-#boss
-#pang
+nattakit 
+warayut 
+boss
+pang

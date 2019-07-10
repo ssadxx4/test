@@ -1,7 +1,4 @@
-nattakit 
-\n 
-warayut 
-\n
+nattakit
+warayut
 boss
 pang
-fff
